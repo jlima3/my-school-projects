@@ -1,0 +1,42 @@
+# images:
+- space2.png - http://opengameart.org/content/grid-hud
+
+- ship_1.png - http://opengameart.org/content/spaceship-9
+
+- xspr5.png and ship_2.png - http://opengameart.org/content/pack-spaceships-and-building
+
+- durrspaceship.png - http://opengameart.org/content/purple-space-ship
+
+- heart.png - https://openclipart.org/detail/102337/heart
+
+- fire-ball.png - https://openclipart.org/detail/29629/fire-ball-icon
+
+- circulo-cromatico.png - https://openclipart.org/detail/191317/circulo-cromatico
+
+- asteroid.png - https://openclipart.org/detail/193397/asteroid
+
+- boostup.png - https://openclipart.org/detail/219173/bolt-icon
+
+# font:
+- anonymous pro.tff - http://www.marksimonson.com/fonts/view/anonymous-pro
+
+# sounds/music:
+- gameover.ogg - http://www.freesound.org/people/notchfilter/sounds/43698/
+
+- error.ogg - http://www.freesound.org/people/Autistic%20Lucario/sounds/142608/
+
+- coin.ogg - http://www.freesound.org/people/DrMinky/sounds/166184/
+
+- mainmusic.ogg - http://www.freesound.org/people/djgriffin/sounds/172561/
+
+- boost.ogg - http://www.freesound.org/people/GameAudio/sounds/220191/
+
+- hurt.ogg - http://www.freesound.org/people/timgormly/sounds/170149/
+
+- pause.ogg - http://www.freesound.org/people/crisstanza/sounds/167127/
+
+- unpause.ogg - http://www.freesound.org/people/crisstanza/sounds/167126/
+
+- success.ogg - http://www.freesound.org/people/grunz/sounds/109662/
+
+- vgbeep.ogg - http://www.freesound.org/people/pan14/sounds/263133/

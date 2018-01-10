@@ -1,2 +1,3 @@
 # my-school-projects
-Selection of some past school projects
+
+Selection of some of my past school projects
